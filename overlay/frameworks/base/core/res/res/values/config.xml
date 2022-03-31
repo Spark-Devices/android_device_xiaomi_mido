@@ -620,8 +620,11 @@
             0 - Not supported
             1 - Supported, but only on/off mode
             2 - Supported with variable brightness control
-    -->
-    <integer name="config_deviceSupportsButtonBrightnessControl">1</integer>
+    --> 
+    <integer name="config_deviceSupportsButtonBrightnessControl">1</integer> 
+
+    <!-- Button brightness -->
+    <bool name="config_button_brightness_support">true</bool>
 
     <!-- Whether the always on display mode is available. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
