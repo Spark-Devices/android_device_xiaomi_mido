@@ -122,6 +122,12 @@ ro.surface_flinger.wcg_composition_dataspace=143261696
 # Time
 persist.timed.enable=true
 
+# Spark Props
+ro.spark.maintainer=RasyidAlKautsar
+ro.spark.device.name=Redmi Note 4
+ro.spark.group.url=https://t.me/Spark_Support_Mido
+ro.spark.maintainer.username=RasyidAlKautsar2
+
 # Telephony
 DEVICE_PROVISIONED=1
 persist.rild.nitz_long_ons_0=
