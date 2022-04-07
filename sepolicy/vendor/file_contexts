@@ -61,3 +61,6 @@
 
 # Wifi Mac
 /vendor/bin/nv_mac                      u:object_r:wcnss_service_exec:s0
+
+# Fps Info
+/sys/devices/virtual/graphics/fb0/measured_fps        u:object_r:sysfs_fps:s0
