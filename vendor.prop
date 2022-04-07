@@ -172,9 +172,6 @@ net.tcp.2g_init_rwnd=10
 # Usb
 persist.vendor.usb.config.extra=none
 
-# Venom
-ro.surface_flinger.running_without_sync_framework=true
-
 # Wifi
 wifi.interface=wlan0
 
