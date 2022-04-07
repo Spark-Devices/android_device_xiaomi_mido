@@ -197,6 +197,10 @@ service vendor.sensors.qti /vendor/bin/sensors.qti
     group system
     disabled
 
+# FPS Info
+    chown system graphics /sys/devices/virtual/graphics/fb0/measured_fps
+    chmod 0666 /sys/devices/virtual/graphics/fb0/measured_fps
+
 on property:sys.boot_completed=1
  # write caching
     # Tell the kernel to use up to 99% of the RAM as cache for writes
