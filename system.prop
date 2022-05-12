@@ -163,7 +163,7 @@ persist.timed.enable=true
 # Spark Props
 ro.spark.maintainer=RasyidAlKautsar
 ro.spark.device.name=Redmi Note 4/4X
-ro.spark.group.url=https://t.me/Spark_Support_Mido
+ro.spark.group.url=https://t.me/SparkOSCommunity
 ro.spark.maintainer.username=RasyidAlKautsar_1
 
 # Telephony
